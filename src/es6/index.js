@@ -33,8 +33,8 @@ let person = {
   name : "Jorge",
   age : 49,
   country : "AR"
-};
+};            
 console.log(person.name, person.age, person.country);
 //es6
 let { name, age, country } = person;
-console.log(name, age, country);
+console.log(name, age, country);                
